@@ -1,5 +1,5 @@
 // Using C
-// https://open.kattis.com/submissions/3311727
+// https://open.kattis.com/problems/hello
 
 #include <stdio.h>
 
