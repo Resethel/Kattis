@@ -37,7 +37,7 @@ sentence = input().lower()
 
 for c in sentence:
     if(c in dict):
-        print(dict[c], end ='')
+        print(dict[c], end = '')
     else:
         print(c, end = '')
 print()
