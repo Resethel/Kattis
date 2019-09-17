@@ -1,5 +1,5 @@
-#Using Python 3
-#https://open.kattis.com/problems/runlengthencodingrun
+# Using Python 3
+# https://open.kattis.com/problems/runlengthencodingrun
 
 str = input()
 _output = ""
