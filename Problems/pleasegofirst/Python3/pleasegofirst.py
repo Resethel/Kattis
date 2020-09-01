@@ -1,6 +1,7 @@
 # Using Python3
 # https://open.kattis.com/problems/pleasegofirst
 
+
 def get_total_wait(_queue):
     # Return the combined waiting time of everybody
 
