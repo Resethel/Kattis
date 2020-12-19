@@ -1,5 +1,9 @@
-# Using Python 3
-# https://open.kattis.com/problems/whatdoesthefoxsay
+#!/usr/bin/env python
+"""Kattis problem : "What does the fox say?".
+
+Language: Python 3.
+URL: https://open.kattis.com/problems/whatdoesthefoxsay
+"""
 
 n = int(input())
 
@@ -20,4 +24,5 @@ for i in range(n):
     out[i] = out[i][:-1]
 
 
-for output in out: print(output)
+for output in out:
+    print(output)

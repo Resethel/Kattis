@@ -1,8 +1,8 @@
 {
-    "title": "4 thought",
-    "id": "4thought",
-    "url": "https://open.kattis.com/problems/4thought",
+    "title": "ABC",
+    "id": "abc",
+    "url": "https://open.kattis.com/problems/abc",
     "languages": [
-        "Python 3"
+        "Python 3": "Accepted"
     ]
 }
